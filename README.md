@@ -20,7 +20,7 @@ Open to remote roles and relocation
 I build practical, end-to-end AI systems, with a focus on **computer vision** and **medical imaging**. I just completed my M.Sc. in Data Science (Department of Future Studies, University of Kerala) and did a Data Science internship at **Prediscan Medtech**, Chennai.
 
 - 🔭 Working on: medical image analysis and RAG-based applications
-- 🌱 Exploring: LLM applications, LangChain, and production-ready ML pipelines
+- 🌱 Exploring: LLM applications, LangChain, LangGraph, and production-ready ML pipelines
 - 🎯 Looking for: Computer Vision / Deep Learning / AI-ML / Data Science roles
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/austin8547)
 
@@ -32,6 +32,7 @@ I build practical, end-to-end AI systems, with a focus on **computer vision** an
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -39,7 +40,7 @@ I build practical, end-to-end AI systems, with a focus on **computer vision** an
 |------|-------|
 | **Computer Vision** | OpenCV, YOLO, face recognition, medical image analysis |
 | **Deep Learning** | PyTorch, CNNs, transfer learning |
-| **LLM / GenAI** | RAG, LangChain, chatbots |
+| **LLM / GenAI** | RAG, LangChain, LangGraph, chatbots |
 | **Data Science** | EDA, data cleaning, visualization, time-series forecasting |
 
 ---
@@ -54,19 +55,6 @@ I build practical, end-to-end AI systems, with a focus on **computer vision** an
 | [**University_Admission_chatbot**](https://github.com/Austin8547/University_Admission_chatbot) | Chatbot that answers university admission queries | Python, LLM |
 | [**stock_price_prediction**](https://github.com/Austin8547/stock_price_prediction) | Time-series model for stock price forecasting | Python, ML |
 | [**EDA**](https://github.com/Austin8547/EDA) | My exploratory data analysis workflow: cleaning, visualization, and insights | Jupyter Notebook |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Austin8547&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin8547&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Austin8547&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
