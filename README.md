@@ -47,7 +47,7 @@ Hi, I'm Austin, a Data Science graduate passionate about building intelligent sy
 | Area | Tools |
 |------|-------|
 | **Computer Vision** | OpenCV, YOLO, CNN, ResNet, Vision Transformer, medical image analysis |
-| **Deep Learning** | PyTorch, CNNs, transfer learning |
+| **Deep Learning** | PyTorch, CNNs, transfer learning, Model Fine-tuning, Model Training |
 | **LLM / GenAI** | LLMs, RAG, LangChain, LangGraph |
 | **Data Science** | NumPy, Pandas, Scikit-learn, EDA, data cleaning, visualization, time-series forecasting |
 
