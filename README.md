@@ -44,12 +44,15 @@ Hi, I'm Austin, a Data Science graduate passionate about building intelligent sy
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-| Area | Tools |
-|------|-------|
-| **Computer Vision** | OpenCV, YOLO, CNN, ResNet, Vision Transformer, medical image analysis |
-| **Deep Learning** | PyTorch, CNNs, transfer learning, Model Fine-tuning, Model Training |
-| **LLM / GenAI** | LLMs, RAG, LangChain, LangGraph |
-| **Data Science** | NumPy, Pandas, Scikit-learn, EDA, data cleaning, visualization, time-series forecasting |
+| Area | Technologies |
+|------|--------------|
+| **Programming** | Python, C++, SQL |
+| **Machine Learning** | Scikit-learn, XGBoost |
+| **Data Science** | NumPy, Pandas, EDA, Data Cleaning, Data Visualization |
+| **Deep Learning** | PyTorch, CNNs, ResNet, Vision Transformers, Transfer Learning |
+| **Computer Vision** | OpenCV, YOLO, Image Classification, Segmentation, Face Recognition |
+| **GenAI / RAG** | LLMs, RAG, LangChain, LangGraph, ChromaDB |
+| **Tools & Frameworks** | Git, GitHub, Streamlit, FastAPI, ONNX Runtime |
 
 ---
 
