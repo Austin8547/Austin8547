@@ -1,16 +1,20 @@
-## Hi there 👋
+Austin M
+────────────────────────────
 
-<!--
-**Austin8547/Austin8547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Austin
 
-Here are some ideas to get you started:
+🤖 AI/ML | Computer Vision | Deep Learning
+🎓 M.Sc. Data Science — University of Kerala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Python • PyTorch • OpenCV • YOLO • RAG • LangChain
+
+🚀 Projects
+• SkinDisease-RAG
+• Fundus Image CVD Prediction
+• University Admission Chatbot
+
+📊 GitHub Stats
+🔥 Contributions
+👀 Profile Views
+⭐ Projects
