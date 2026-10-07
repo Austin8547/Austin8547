@@ -46,7 +46,7 @@ Hi, I'm Austin, a Data Science graduate passionate about building intelligent sy
 
 | Area | Technologies |
 |------|--------------|
-| **Programming** | Python, C++, SQL |
+| **Programming** | Python |
 | **Machine Learning** | Scikit-learn, XGBoost |
 | **Data Science** | NumPy, Pandas, EDA, Data Cleaning, Data Visualization |
 | **Deep Learning** | PyTorch, CNNs, ResNet, Vision Transformers, Transfer Learning |
