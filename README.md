@@ -57,12 +57,12 @@ Hi, I'm Austin, a Data Science graduate passionate about building intelligent sy
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**SkinDisease-RAG**](https://github.com/Austin8547/SkinDisease-RAG) | Retrieval-Augmented Generation system for skin disease information, with data, source, and evaluation modules | Python, RAG, LangChain |
+| [**SkinDisease-RAG**](https://github.com/Austin8547/SkinDisease-RAG) | Retrieval-Augmented Generation system for skin disease information, with data, source, and evaluation modules | Python, RAG, LangChain, Groq |
 | [**cvd_prediction**](https://github.com/Austin8547/cvd_prediction) | Cardiovascular risk prediction from retinal fundus images using foundation models and a multimodal approach | PyTorch, Vision Transformer, FastAPI |
 | [**Multi_Face_recognition_system**](https://github.com/Austin8547/Multi_Face_recognition_system) | Real-time face recognition attendance system with a database-backed logging pipeline | YOLOv8, InsightFace (ArcFace), ONNX Runtime, PostgreSQL |
-| [**University_Admission_chatbot**](https://github.com/Austin8547/University_Admission_chatbot) | RAG chatbot answering university admission queries with source citations | LangChain, Gemini, ChromaDB, Streamlit, FastAPI |
-| [**stock_price_prediction**](https://github.com/Austin8547/stock_price_prediction) | Next-day stock price forecasting on NIFTY 50 data with an interactive dashboard | XGBoost, Streamlit |
-| [**EDA**](https://github.com/Austin8547/EDA) | My exploratory data analysis workflow: cleaning, visualization, and insights | Jupyter Notebook |
+| [**University_Admission_chatbot**](https://github.com/Austin8547/University_Admission_chatbot) | RAG chatbot answering university admission queries with source citations | LangChain, groq, ChromaDB, Streamlit, Reranker, FastAPI |
+| [**stock_price_prediction**](https://github.com/Austin8547/stock_price_prediction) | Next-day stock price forecasting on NIFTY 50 data with an interactive dashboard | Numpy, Pandas, Matplotlib XGBoost, Streamlit |
+| [**EDA**](https://github.com/Austin8547/EDA) | My exploratory data analysis workflow: cleaning, visualization, and insights |  Numpy, Pandas, Matplotlib, Jupyter Notebook |
 
 ---
 
