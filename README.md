@@ -4,8 +4,7 @@
 
 **AI/ML Engineer · Computer Vision · Deep Learning**
 
-M.Sc. Data Science graduate, University of Kerala · Based in Trivandrum, India
-Open to remote roles and relocation
+M.Sc. Data Science graduate, University of Kerala 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-austin8547-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin8547)
 [![GitHub followers](https://img.shields.io/github/followers/Austin8547?style=for-the-badge&logo=github&color=181717)](https://github.com/Austin8547?tab=followers)
@@ -17,7 +16,7 @@ Open to remote roles and relocation
 
 ## 🧑‍💻 About Me
 
-I build practical, end-to-end AI systems, with a focus on **computer vision** and **medical imaging**. I just completed my M.Sc. in Data Science (Department of Future Studies, University of Kerala) and did a Data Science internship at **Prediscan Medtech**, Chennai.
+Hi, I'm Austin, a Data Science graduate passionate about building intelligent systems that solve real problems. With hands-on experience in Python, machine learning, deep learning, computer vision, and LLMs/RAG, I enjoy taking projects from raw data all the way to working applications across a variety of domains.
 
 - 🔭 Working on: medical image analysis and RAG-based applications
 - 🌱 Exploring: LLM applications, LangChain, LangGraph, and production-ready ML pipelines
